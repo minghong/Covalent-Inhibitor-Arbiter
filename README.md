@@ -17,5 +17,8 @@ You can download CIA source code [here](https://github.com/minghong/Covalent-Inh
 ### Input
 目前仅支持输入分子的smiles式，例如NC1CC1c1ccccc1。后续会更新，支持输入mol等格式文件
 
+### Command line
+python cov.py -i <smiles>
+   
 ## Feedback and bug reports
 Your comments, bug reports, and suggestions are very welcomed. They will help us to further improve Covalent-Inhibitor-Arbiter.You can send your comments and bug reports via e-mail: [xuqi2@genomics.cn](xuqi2@genomics.cn)
