@@ -21,4 +21,4 @@ You can download CIA source code [here](https://github.com/minghong/Covalent-Inh
 python cov.py -i smiles
    
 ## Feedback and bug reports
-Your comments, bug reports, and suggestions are very welcomed. They will help us to further improve Covalent-Inhibitor-Arbiter.You can send your comments and bug reports via e-mail: minghong7@163.com
+Your comments, bug reports, and suggestions are very welcomed. They will help us to further improve Covalent-Inhibitor-Arbiter.You can send your comments and bug reports via e-mail: xuqi@seu.edu.cn
